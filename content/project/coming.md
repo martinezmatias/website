@@ -3,7 +3,7 @@
 #date = "2016-04-27"
 
 # Project title.
-title = "Astor"
+title = "Coming"
 
 # Project summary to display on homepage.
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -13,7 +13,7 @@ image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["astor", "automated program repair","java code","software repair"]
+tags = ["software repositories", "code analysis","java code"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "https://github.com/SpoonLabs/astor"
@@ -29,6 +29,6 @@ image = "headers/bubbles-wide.jpg"
 
 +++
  
-Astor is an automatic software repair framework in Java for Java. It contains the new state of the art repair approach named DeepRepair, and an implementation of state of the art repair approaches such as GenProg and Kali (named jGenProg and jKali, respectively).
+Coming: A tool for mining commits of software repositories
 
-https://github.com/SpoonLabs/astor
+https://github.com/Spirals-Team/coming

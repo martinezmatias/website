@@ -3,7 +3,7 @@
 #date = "2016-04-27"
 
 # Project title.
-title = "Astor"
+title = "Gumtree-spoon-ast-diff"
 
 # Project summary to display on homepage.
 #summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -13,7 +13,7 @@ image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["astor", "automated program repair","java code","software repair"]
+tags = ["GUMTREE","code diff", "code analysis","java code", "AST"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "https://github.com/SpoonLabs/astor"
@@ -28,7 +28,7 @@ image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
 
 +++
- 
-Astor is an automatic software repair framework in Java for Java. It contains the new state of the art repair approach named DeepRepair, and an implementation of state of the art repair approaches such as GenProg and Kali (named jGenProg and jKali, respectively).
 
-https://github.com/SpoonLabs/astor
+Gumtree-spoon-ast-diff: Computes the AST difference (aka edit script) between two Spoon Java abstract syntax trees
+
+https://github.com/SpoonLabs/gumtree-spoon-ast-diff/

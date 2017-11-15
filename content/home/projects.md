@@ -9,7 +9,7 @@ title = "Open-Source Tools"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 3
 
 # View.
 # Customize how projects are displayed.

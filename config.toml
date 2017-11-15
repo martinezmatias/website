@@ -1,6 +1,6 @@
 baseurl = "https://martinezmatias.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Matias Martinez"
-copyright = "&copy; 2017 M.S.Martinez"
+#copyright = "&copy; 2017 M.S.Martinez"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -234,11 +234,6 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 #[[menu.main]]
-#  name = "Selected Publications"
-#  url = "#publications_selected"
-#  weight = 2
-
-#[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 3
@@ -251,17 +246,24 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 7
+ 
+ [[menu.main]]
+  name = "Selected Publications"
+  url = "#selected_publications"
+  weight = 6 
   
 [[menu.main]]
   name = "All Publications"
   url = "#mpubl"
-  weight = 6
+  weight = 8
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 9
+
+
 
 # Taxonomies.
 #[taxonomies]

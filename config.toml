@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "mmimage.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  #email = "matias(dot)martinez(at)univ-valenciennes(dot).fr"
+  #email = "matias(dot)martinez(at)univ-valenciennes(dot)fr"
   #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
@@ -250,7 +250,7 @@ defaultContentLanguageInSubdir = false
  
  [[menu.main]]
   name = "Selected Publications"
-  url = "#selected_publications"
+  url = "#publications_selected"
   weight = 6 
   
 [[menu.main]]

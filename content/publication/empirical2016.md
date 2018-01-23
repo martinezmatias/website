@@ -1,5 +1,5 @@
 +++
-title = "Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset."
+title = "Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset"
 date = "2016-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -34,10 +34,10 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = [""]
+# projects = [""]
 
 # Links (optional).
-# url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+ url_pdf = "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7463060&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7463060"
 # url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 # url_code = "#"
 # url_dataset = "#"
@@ -49,7 +49,7 @@ selected = true
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = true

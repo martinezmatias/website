@@ -15,40 +15,50 @@ weight = 5
 
 +++
 
+# 2018
+
+*Open-ended Exploration of the Program Repair Search Space with Mined Templates: the Next 8935 Patches for Defects4J* 
+Matias Martinez, Martin Monperrus. [Download](https://arxiv.org/abs/1712.03854) (Under submission)
+
+*Do Mobile Developers Ask on Q&A Sites About Error Codes Thrown by a Cross-Platform App Development Framework? An Empirical Study*. Matias Martinez, Sylvain Lecomte. [Download](https://arxiv.org/abs/1801.07026) (Under submission)
+	
+
+
 
 # 2017 
 
-*Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. Martin White, Michele Tufano, Matias Martinez, Martin Monperrus, Denys Poshyvanyk [Download](https://arxiv.org/pdf/1707.04742.pdf)
+*Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. Martin White, Michele Tufano, Matias Martinez, Martin Monperrus, Denys Poshyvanyk. [Download](https://arxiv.org/pdf/1707.04742.pdf) 
 
-*Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  (International Conference on Mobile Software Engineering and Systems). In Proceedings of the 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft '17). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](http://dl.acm.org/citation.cfm?id=3104119)
+*Test Case Generation for Program Repair: A Study of Feasibility and Effectiveness*. Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus. [Download](https://arxiv.org/abs/1703.00198)  (Under submission)
 
-*Astor repair framework*. Dagstuhl Seminar on automated program repair [Link](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17022)
+*Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  (International Conference on Mobile Software Engineering and Systems). In Proceedings of the 4th **International Conference on Mobile Software Engineering and Systems** (MOBILESoft '17). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](http://dl.acm.org/citation.cfm?id=3104119)
 
-*XamForumDB: a dataset for studying Q&A about cross-platform mobile applications development*. M. Martinez, S. Lecomte [Download](https://arxiv.org/abs/1703.03631)
+*Astor repair framework*. Dagstuhl Seminar on automated program repair. [Link](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17022)
 
-*Test Case Generation for Program Repair: A Study of Feasibility and Effectiveness*. Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus [Download](https://arxiv.org/abs/1703.00198)
+*XamForumDB: a dataset for studying Q&A about cross-platform mobile applications development*. M. Martinez, S. Lecomte. [Download](https://arxiv.org/abs/1703.03631)
+
 
 #  2016
 
-*Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset*. M. Martinez, T. Durieux, R. Sommerard, J. Xuan, M. Monperrus. Empirical Software Engineering (2016). doi:10.1007/s10664-016-9470-4 [Download](http://link.springer.com/article/10.1007/s10664-016-9470-4?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst).
+*Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset*. M. Martinez, T. Durieux, R. Sommerard, J. Xuan, M. Monperrus. **Empirical Software Engineering** (2016). doi:10.1007/s10664-016-9470-4 [Download](http://link.springer.com/article/10.1007/s10664-016-9470-4?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst).
 
-*Nopol: Automatic Repair of Conditional Statement Bugs in Java Programs*. J. Xuan; M. Martinez; F. DeMarco; M. Clement; S. Lamelas Marcote; T. Durieux; D. Le Berre; M. Monperrus, in IEEE Transactions on Software Engineering,  doi: 10.1109/TSE.2016.2560811 [Download](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7463060&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7463060).
+*Nopol: Automatic Repair of Conditional Statement Bugs in Java Programs*. J. Xuan; M. Martinez; F. DeMarco; M. Clement; S. Lamelas Marcote; T. Durieux; D. Le Berre; M. Monperrus, in **IEEE Transactions on Software Engineering**,  doi: 10.1109/TSE.2016.2560811 [Download](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7463060&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7463060).
 
-*B-Refactoring: Automatic test code refactoring to improve dynamic analysis*. Jifeng Xuan, Benoit Cornu, Matias Martinez, Benoit Baudry, Lionel Seinturier, Martin Monperrus, Information and Software Technology, Volume 76, August 2016, Pages 65-80, ISSN 0950-5849, http://dx.doi.org/10.1016/j.infsof.2016.04.016 [Download](http://www.sciencedirect.com/science/article/pii/S0950584916300714).
+*B-Refactoring: Automatic test code refactoring to improve dynamic analysis*. Jifeng Xuan, Benoit Cornu, Matias Martinez, Benoit Baudry, Lionel Seinturier, Martin Monperrus, **Information and Software Technology**, Volume 76, August 2016, Pages 65-80, ISSN 0950-5849, http://dx.doi.org/10.1016/j.infsof.2016.04.016 [Download](http://www.sciencedirect.com/science/article/pii/S0950584916300714).
 
-*ASTOR: a program repair library for Java (demo).  Matias Martinez and Martin Monperrus*. 2016. In Proceedings of the 25th International Symposium on Software Testing and Analysis (ISSTA 2016). ACM, New York, NY, USA, 441-444. DOI: https://doi.org/10.1145/2931037.2948705  [Download](http://dl.acm.org/citation.cfm?id=2948705).
+*ASTOR: a program repair library for Java (demo).  Matias Martinez and Martin Monperrus*. 2016. In Proceedings of the 25th **International Symposium on Software Testing and Analysis** (ISSTA 2016). ACM, New York, NY, USA, 441-444. DOI: https://doi.org/10.1145/2931037.2948705  [Download](http://dl.acm.org/citation.cfm?id=2948705).
 
 # 2015
 
-*When App Stores Listen to the Crowd to Fight Bugs in the Wild*. M.Gomez, M. Martinez, R. Rouvoy and M. Monperrus.  In Proceedings of the 37th International Conference on Software Engineering - Volume 2 (ICSE '15), Vol. 2. IEEE Press, Piscataway, NJ, USA, 567-570. DOI: 10.1109/ICSE.2015.195 [Download](https://hal.inria.fr/hal-01105173).
+*When App Stores Listen to the Crowd to Fight Bugs in the Wild*. M.Gomez, M. Martinez, R. Rouvoy and M. Monperrus.  In Proceedings of the 37th **International Conference on Software Engineering - Volume 2 (ICSE '15)**, Vol. 2. IEEE Press, Piscataway, NJ, USA, 567-570. DOI: 10.1109/ICSE.2015.195 [Download](https://hal.inria.fr/hal-01105173).
 
 *Automatic repair of real bugs: An experience report on the Defects4J dataset*. Thomas Durieux, Matias Martinez, Martin Monperrus, Romain Sommerard, and Jifeng Xuan [Download](http://arxiv.org/pdf/1505.07002v1.pdf). 
 
 # 2014
 
-*Fine-grained and Accurate Source Code Differencing*. J.R Falleri, F. Morandat, X. Blanc, M. Martinez, M. Monperrus. In Proceedings of the 29th ACM/IEEE international conference on Automated software engineering (ASE '14). ACM, New York, NY, USA, 313-324. DOI=http://dx.doi.org/10.1145/2642937.264298 [Download](http://dl.acm.org/citation.cfm?id=2642982)
+*Fine-grained and Accurate Source Code Differencing*. J.R Falleri, F. Morandat, X. Blanc, M. Martinez, M. Monperrus. In Proceedings of the 29th ACM/IEEE international conference on **Automated software engineering** (ASE '14). ACM, New York, NY, USA, 313-324. DOI=http://dx.doi.org/10.1145/2642937.264298 [Download](http://dl.acm.org/citation.cfm?id=2642982)
  
-*Do the Fix Ingredients Already Exist? An Empirical Inquiry into the Redundancy Assumptions of Program Repair Approaches*. M. Martínez, W. Weimer and M. Monperrus. In Companion Proceedings of the 36th International Conference on Software Engineering (ICSE Companion 2014). ACM, New York, NY, USA, 492-495. DOI=http://dx.doi.org/10.1145/2591062.2591114 [Download](http://dl.acm.org/citation.cfm?doid=2591062.2591114).
+*Do the Fix Ingredients Already Exist? An Empirical Inquiry into the Redundancy Assumptions of Program Repair Approaches*. M. Martínez, W. Weimer and M. Monperrus. In Companion Proceedings of the 36th **International Conference on Software Engineering** (ICSE Companion 2014). ACM, New York, NY, USA, 492-495. DOI=http://dx.doi.org/10.1145/2591062.2591114 [Download](http://dl.acm.org/citation.cfm?doid=2591062.2591114).
 
 *ASTOR: Evolutionary Automatic Software Repair for Java.* M.Martinez, M.Monperrus (Technical Report) [Download](https://hal.archives-ouvertes.fr/hal-01075976v1).
 
@@ -56,9 +66,9 @@ weight = 5
 
 # 2013
 
-*Mining software repair models for reasoning on the search space of automated program fixing*. M. Martinez and M. Monperrus. Empirical Software Engineering journal, Springer Verlag. 20: 176. doi:10.1007/s10664-013-9282-8 [Download](http://link.springer.com/article/10.1007/s10664-013-9282-8).
+*Mining software repair models for reasoning on the search space of automated program fixing*. M. Martinez and M. Monperrus. **Empirical Software Engineering journal**, Springer Verlag. 20: 176. doi:10.1007/s10664-013-9282-8 [Download](http://link.springer.com/article/10.1007/s10664-013-9282-8).
 
-*Automatically Extracting Instances of Code Change Patterns with AST Analysis*. Matías Martínez, Laurence Duchien and Martin Monperrus. In Proceedings of the 2013 IEEE International Conference on Software Maintenance (ICSM '13). IEEE Computer Society, Washington, DC, USA, 388-391. DOI=http://dx.doi.org/10.1109/ICSM.2013.54 [Download](http://dl.acm.org/citation.cfm?id=2550597).
+*Automatically Extracting Instances of Code Change Patterns with AST Analysis*. Matías Martínez, Laurence Duchien and Martin Monperrus. In Proceedings of the 2013 **IEEE International Conference on Software Maintenance** (ICSM '13). IEEE Computer Society, Washington, DC, USA, 388-391. DOI=http://dx.doi.org/10.1109/ICSM.2013.54 [Download](http://dl.acm.org/citation.cfm?id=2550597).
 
 *Probabilistic Mutational Transformations for Automatic Software Repair* (ICSM'13, Doctoral Symposium Poster).
 

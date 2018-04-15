@@ -13,34 +13,36 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 5
 
+# *Do Mobile Developers Ask on Q&A Sites About Error Codes Thrown by a Cross-Platform App Development Framework? An Empirical Study*. Matias Martinez, Sylvain Lecomte. [Download](https://arxiv.org/abs/1801.07026) (Under submission)
+#*XamForumDB: a dataset for studying Q&A about cross-platform mobile applications development*. M. Martinez, S. Lecomte. [Download](https://arxiv.org/abs/1703.03631)
+#
+#
 +++
 
 # 2018
 
+*Test Case Generation for Program Repair: A Study of Feasibility and Effectiveness*. 
+Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software Engineering Journal** (2018) (To appear) [Download](https://arxiv.org/abs/1703.00198)  
+
+
 *Open-ended Exploration of the Program Repair Search Space with Mined Templates: the Next 8935 Patches for Defects4J* 
 Matias Martinez, Martin Monperrus. [Download](https://arxiv.org/abs/1712.03854) (Under submission)
 
-*Do Mobile Developers Ask on Q&A Sites About Error Codes Thrown by a Cross-Platform App Development Framework? An Empirical Study*. Matias Martinez, Sylvain Lecomte. [Download](https://arxiv.org/abs/1801.07026) (Under submission)
 	
-
-
 
 # 2017 
 
 *Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. Martin White, Michele Tufano, Matias Martinez, Martin Monperrus, Denys Poshyvanyk. [Download](https://arxiv.org/pdf/1707.04742.pdf) 
 
-*Test Case Generation for Program Repair: A Study of Feasibility and Effectiveness*. Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus. [Download](https://arxiv.org/abs/1703.00198)  (Under submission)
-
 *Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  (International Conference on Mobile Software Engineering and Systems). In Proceedings of the 4th **International Conference on Mobile Software Engineering and Systems** (MOBILESoft '17). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](http://dl.acm.org/citation.cfm?id=3104119)
 
 *Astor repair framework*. Dagstuhl Seminar on automated program repair. [Link](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17022)
 
-*XamForumDB: a dataset for studying Q&A about cross-platform mobile applications development*. M. Martinez, S. Lecomte. [Download](https://arxiv.org/abs/1703.03631)
 
 
 #  2016
 
-*Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset*. M. Martinez, T. Durieux, R. Sommerard, J. Xuan, M. Monperrus. **Empirical Software Engineering** (2016). doi:10.1007/s10664-016-9470-4 [Download](http://link.springer.com/article/10.1007/s10664-016-9470-4?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst).
+*Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset*. M. Martinez, T. Durieux, R. Sommerard, J. Xuan, M. Monperrus. **Empirical Software Engineering Journal** (2016). doi:10.1007/s10664-016-9470-4 [Download](http://link.springer.com/article/10.1007/s10664-016-9470-4?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst).
 
 *Nopol: Automatic Repair of Conditional Statement Bugs in Java Programs*. J. Xuan; M. Martinez; F. DeMarco; M. Clement; S. Lamelas Marcote; T. Durieux; D. Le Berre; M. Monperrus, in **IEEE Transactions on Software Engineering**,  doi: 10.1109/TSE.2016.2560811 [Download](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7463060&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7463060).
 

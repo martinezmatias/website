@@ -13,7 +13,7 @@ weight = 1
     "Empirical Software Engineering",
     "Automated Software Repair",
     "Software Testing",
-    "Mobile Developtment and Testing"
+    "Mobile Development and Testing"
   ]
 
 # List your qualifications (such as academic degrees).

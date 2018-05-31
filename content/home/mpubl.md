@@ -28,9 +28,11 @@ Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software 
 
 *Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. arXiv:1802.03365 [Download](https://arxiv.org/abs/1802.03365) (Under submission)
 
+*A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark*. He Ye, Matias Martinez, Martin Monperrus. arXiv:1805.03454 [Download](https://arxiv.org/abs/1805.03454) (Under submission)
+
 # 2017 
 
-*Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. M. White, M. Tufano, M. Martinez, M. Monperrus, D. Poshyvanyk. arXiv:1707.04742 [Download](https://arxiv.org/pdf/1707.04742.pdf) 
+*Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. M. White, M. Tufano, M. Martinez, M. Monperrus, D. Poshyvanyk. arXiv:1707.04742 [Download](https://arxiv.org/pdf/1707.04742.pdf)  (Under submission)
 
 *Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  (International Conference on Mobile Software Engineering and Systems). In Proceedings of the 4th **International Conference on Mobile Software Engineering and Systems** (MOBILESoft '17). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](http://dl.acm.org/citation.cfm?id=3104119)
 

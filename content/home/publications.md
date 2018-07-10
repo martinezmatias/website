@@ -24,15 +24,17 @@ weight = 5
 *Alleviating patch overfitting with automatic test generation: a study of feasibility and effectiveness for the Nopol repair system*. 
 Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software Engineering Journal** (2018) doi: 10.1007/s10664-018-9619-4 [Download](https://arxiv.org/abs/1703.00198)  
 
-*Open-ended Exploration of the Program Repair Search Space with Mined Templates: the Next 8935 Patches for Defects4J*. M. Martinez, M. Monperrus. arXiv:1712.03854 [Download](https://arxiv.org/abs/1712.03854) (Under submission)
+*Ultra-Large Repair Search Space with Automatically Mined Templates: the Cardumen Mode of Astor*. M. Martinez, M. Monperrus. **Symposium on Search-Based Software Engineering** (2018) arXiv:1712.03854 [Download](https://arxiv.org/abs/1712.03854)
 
-*Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. arXiv:1802.03365 [Download](https://arxiv.org/abs/1802.03365) (Under submission)
+*Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. arXiv:1802.03365 [Download](https://arxiv.org/abs/1802.03365)
 
-*A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark*. He Ye, Matias Martinez, Martin Monperrus. arXiv:1805.03454 [Download](https://arxiv.org/abs/1805.03454) (Under submission)
+*A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark*. He Ye, Matias Martinez, Martin Monperrus. arXiv:1805.03454 [Download](https://arxiv.org/abs/1805.03454) 
+
+*Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez [Download](https://arxiv.org/abs/1712.09569)
 
 # 2017 
 
-*Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. M. White, M. Tufano, M. Martinez, M. Monperrus, D. Poshyvanyk. arXiv:1707.04742 [Download](https://arxiv.org/pdf/1707.04742.pdf)  (Under submission)
+*Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. M. White, M. Tufano, M. Martinez, M. Monperrus, D. Poshyvanyk. arXiv:1707.04742 [Download](https://arxiv.org/pdf/1707.04742.pdf) 
 
 *Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  (International Conference on Mobile Software Engineering and Systems). In Proceedings of the 4th **International Conference on Mobile Software Engineering and Systems** (MOBILESoft '17). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](http://dl.acm.org/citation.cfm?id=3104119)
 

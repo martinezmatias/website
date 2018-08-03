@@ -22,3 +22,4 @@ weight = 5
 - Data privacy and security (Master course)
 - Object-oriented programming
 - Programming in Java language
+- Design of Distributed Systems

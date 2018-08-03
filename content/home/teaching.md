@@ -11,7 +11,7 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 4
+weight = 5
 
 +++
 
@@ -20,8 +20,5 @@ weight = 4
 - Advanced programming in C
 - Data bases security (Master course)
 - Data privacy and security (Master course)
-
-Moreover, I am also involved in the following courses:
-
 - Object-oriented programming
-- Programming on Java language
+- Programming in Java language

@@ -28,9 +28,12 @@ Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software 
 
 *Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. arXiv:1802.03365 [Download](https://arxiv.org/abs/1802.03365)
 
-*A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark*. He Ye, Matias Martinez, Martin Monperrus. arXiv:1805.03454 [Download](https://arxiv.org/abs/1805.03454) 
+*A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark*. H. Ye, M. Martinez, M. Monperrus. arXiv:1805.03454 [Download](https://arxiv.org/abs/1805.03454) 
+
+*An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. arXiv:1808.00025  [Download](https://arxiv.org/abs/1808.00025)
 
 *Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez [Download](https://arxiv.org/abs/1712.09569)
+
 
 # 2017 
 
@@ -38,7 +41,7 @@ Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software 
 
 *Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  (International Conference on Mobile Software Engineering and Systems). In Proceedings of the 4th **International Conference on Mobile Software Engineering and Systems** (MOBILESoft '17). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](http://dl.acm.org/citation.cfm?id=3104119)
 
-*Astor repair framework*. Dagstuhl Seminar on automated program repair. [Link](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17022)
+*Astor repair framework*. M.Martinez. **Dagstuhl Seminar on automated program repair**. [Link](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17022)
 
 
 

@@ -32,7 +32,7 @@ weight = 1
 
 # About me
 
-I am assistant professor in the [University of Valenciennes (France)](http://www.univ-valenciennes.fr/), and member of the [LAMIH](http://www.univ-valenciennes.fr/LAMIH/en/) laboratory (UMR CNRS 8201). 
+I am assistant professor in the [Université Polytechnique Hauts-de-France (France)](http://www.uphf.fr/), and member of the [LAMIH](http://www.univ-valenciennes.fr/LAMIH/en/) laboratory (UMR CNRS 8201). 
 <!---Previously, I was a researcher in the University of Lille 1 and INRIA Lille, and post-doc in the University of Lugano (Switzerland). -->
 I got my PhD degree in October 2014 from [University of Lille (France)](http://www.univ-lille1.fr/) and a Computer Science degree from [UNICEN (Argentina)] (http://www.exa.unicen.edu.ar/).  Moreover, I  had teaching duties at the engineering school [Telecom Lille](http://www.telecom-lille.fr/). 
 I have worked in the private sector as software developer (Java, Web, SOA, Mobile).  

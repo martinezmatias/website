@@ -34,6 +34,9 @@ Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software 
 
 *Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez [Download](https://arxiv.org/abs/1712.09569)
 
+*Coming: a tool for mining change pattern instances from git commits* M. Martinez and M. Monperrus. 2018.  arXiv:1810.08532 [Download](https://arxiv.org/abs/1810.08532)
+
+*Human-competitive Patches in Automatic Program Repair with Repairnator* M. Monperrus, S. Urli, T. Durieux, M. Martinez, Benoit Baudry, L. Seinturier. arXiv:1810.05806 [Download](https://arxiv.org/abs/1810.05806)
 
 # 2017 
 

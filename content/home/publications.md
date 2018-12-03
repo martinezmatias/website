@@ -19,6 +19,11 @@ weight = 2
 #
 +++
 
+# 2019
+
+*Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. M. White, M. Tufano, M. Martinez, M. Monperrus, D. Poshyvanyk. In Proceedings of **SANER 2019**. arXiv:1707.04742 [Download](https://arxiv.org/pdf/1707.04742.pdf) 
+
+
 # 2018
 
 *Alleviating patch overfitting with automatic test generation: a study of feasibility and effectiveness for the Nopol repair system*. 
@@ -39,8 +44,6 @@ Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software 
 *Human-competitive Patches in Automatic Program Repair with Repairnator* M. Monperrus, S. Urli, T. Durieux, M. Martinez, Benoit Baudry, L. Seinturier. arXiv:1810.05806 [Download](https://arxiv.org/abs/1810.05806)
 
 # 2017 
-
-*Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. M. White, M. Tufano, M. Martinez, M. Monperrus, D. Poshyvanyk. arXiv:1707.04742 [Download](https://arxiv.org/pdf/1707.04742.pdf) 
 
 *Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  (International Conference on Mobile Software Engineering and Systems). In Proceedings of the 4th **International Conference on Mobile Software Engineering and Systems** (MOBILESoft '17). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](http://dl.acm.org/citation.cfm?id=3104119)
 

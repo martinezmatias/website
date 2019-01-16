@@ -23,8 +23,11 @@ weight = 2
 
 *Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. M. White, M. Tufano, M. Martinez, M. Monperrus, D. Poshyvanyk. In Proceedings of **SANER 2019**. arXiv:1707.04742 [Download](https://arxiv.org/pdf/1707.04742.pdf) 
 
-*Coming: a tool for mining change pattern instances from git commits*. M. Martinez and M. Monperrus. 2018. To appear in **ICSE Demonstration 2019**. arXiv:1810.08532 [Download](https://arxiv.org/abs/1810.08532)
+*Coming: a tool for mining change pattern instances from git commits*. M. Martinez and M. Monperrus. 2019. To appear in **ICSE Demonstration 2019**. arXiv:1810.08532 [Download](https://arxiv.org/abs/1810.08532)
 
+*Alleviating Patch Overfitting with Automatic Test Generation: A Study of Feasibility and Effectiveness for the Nopol Repair System* Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **ICSE 2019 Journal First** (2019) doi: 10.1007/s10664-018-9619-4 [Download](https://arxiv.org/abs/1703.00198)  
+
+*A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark* H. Ye, M. Martinez,T. Durieux, M. Monperrus.  **International Workshop on Intelligent Bug Fixing (IBF 2019) co-located with SANER 2019**. arXiv:1805.03454 [Download](https://arxiv.org/abs/1805.03454) 
 
 # 2018
 
@@ -34,8 +37,6 @@ Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software 
 *Ultra-Large Repair Search Space with Automatically Mined Templates: the Cardumen Mode of Astor*. M. Martinez, M. Monperrus. **Symposium on Search-Based Software Engineering** (2018) arXiv:1712.03854 [Download](https://arxiv.org/abs/1712.03854)
 
 *Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. arXiv:1802.03365 [Download](https://arxiv.org/abs/1802.03365)
-
-*A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark*. H. Ye, M. Martinez, M. Monperrus. arXiv:1805.03454 [Download](https://arxiv.org/abs/1805.03454) 
 
 *An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. arXiv:1808.00025  [Download](https://arxiv.org/abs/1808.00025)
 

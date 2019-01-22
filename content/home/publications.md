@@ -29,22 +29,24 @@ weight = 2
 
 *A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark* H. Ye, M. Martinez,T. Durieux, M. Monperrus.  **International Workshop on Intelligent Bug Fixing (IBF 2019) co-located with SANER 2019**. arXiv:1805.03454 [Download](https://arxiv.org/abs/1805.03454) 
 
-*Program Repair at Arbitrary Fault Depth*. B. Khaireddine, M. Martinez, A. Mili. **ICST 2019 Tools Track**.
+*Program Repair at Arbitrary Fault Depth*. B. Khaireddine, M. Martinez, A. Mili. **ICST 2019 Tools Track** (2019).
+
+*Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. **Journal of Systems and Software (JSS)** (2019) arXiv:1802.03365 [Download](https://arxiv.org/abs/1802.03365)
+
 
 # 2018
 
 *Alleviating patch overfitting with automatic test generation: a study of feasibility and effectiveness for the Nopol repair system*. 
-Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software Engineering Journal** (2018) doi: 10.1007/s10664-018-9619-4 [Download](https://arxiv.org/abs/1703.00198)  
+Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software Engineering Journal** (2018) doi: 10.1007/s10664-018-9619-4 [Download](https://hal.inria.fr/hal-01774223)  
 
 *Ultra-Large Repair Search Space with Automatically Mined Templates: the Cardumen Mode of Astor*. M. Martinez, M. Monperrus. **Symposium on Search-Based Software Engineering** (2018) arXiv:1712.03854 [Download](https://arxiv.org/abs/1712.03854)
-
-*Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. arXiv:1802.03365 [Download](https://arxiv.org/abs/1802.03365)
 
 *An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. arXiv:1808.00025  [Download](https://arxiv.org/abs/1808.00025)
 
 *Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez [Download](https://arxiv.org/abs/1712.09569)
 
 *Human-competitive Patches in Automatic Program Repair with Repairnator* M. Monperrus, S. Urli, T. Durieux, M. Martinez, Benoit Baudry, L. Seinturier. arXiv:1810.05806 [Download](https://arxiv.org/abs/1810.05806)
+
 
 # 2017 
 
@@ -60,9 +62,9 @@ Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software 
 
 *Nopol: Automatic Repair of Conditional Statement Bugs in Java Programs*. J. Xuan; M. Martinez; F. DeMarco; M. Clement; S. Lamelas Marcote; T. Durieux; D. Le Berre; M. Monperrus, in **IEEE Transactions on Software Engineering**,  doi: 10.1109/TSE.2016.2560811 [Download](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7463060&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7463060).
 
-*B-Refactoring: Automatic test code refactoring to improve dynamic analysis*. J. Xuan, B. Cornu, M. Martinez, B. Baudry, L. Seinturier, M. Monperrus, **Information and Software Technology**, Volume 76, August 2016, Pages 65-80, ISSN 0950-5849, http://dx.doi.org/10.1016/j.infsof.2016.04.016 [Download](http://www.sciencedirect.com/science/article/pii/S0950584916300714).
-
 *ASTOR: a program repair library for Java (demo).  Matias Martinez and Martin Monperrus*. 2016. In Proceedings of the 25th **International Symposium on Software Testing and Analysis** (ISSTA 2016). ACM, New York, NY, USA, 441-444. DOI: https://doi.org/10.1145/2931037.2948705  [Download](http://dl.acm.org/citation.cfm?id=2948705).
+
+*B-Refactoring: Automatic test code refactoring to improve dynamic analysis*. J. Xuan, B. Cornu, M. Martinez, B. Baudry, L. Seinturier, M. Monperrus, **Information and Software Technology**, Volume 76, August 2016, Pages 65-80, ISSN 0950-5849, http://dx.doi.org/10.1016/j.infsof.2016.04.016 [Download](http://www.sciencedirect.com/science/article/pii/S0950584916300714).
 
 # 2015
 

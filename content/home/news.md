@@ -20,6 +20,9 @@ weight = 6
 ## Last news:
 
 
+* Our paper *A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark*  was selected as the **best paper**  of the International Workshop on Intelligent Bug Fixing (IBF 2019) co-located with SANER 2019.
+
+
 * I participate in the Program Committee of ICSE 2019 Demonstration [Web site](https://2019.icse-conferences.org/track/icse-2019-Demonstrations).
 
 

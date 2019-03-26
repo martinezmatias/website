@@ -33,6 +33,8 @@ weight = 2
 
 *Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. **Journal of Systems and Software (JSS)** (2019) arXiv:1802.03365 [Download](https://arxiv.org/abs/1802.03365)
 
+*Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez **International Conference on Mobile Software Engineering and Systems (MobileSoft)** (2018)[Download](https://arxiv.org/abs/1712.09569)
+
 
 # 2018
 
@@ -43,14 +45,12 @@ Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software 
 
 *An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. arXiv:1808.00025  [Download](https://arxiv.org/abs/1808.00025)
 
-*Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez [Download](https://arxiv.org/abs/1712.09569)
-
 *Human-competitive Patches in Automatic Program Repair with Repairnator* M. Monperrus, S. Urli, T. Durieux, M. Martinez, Benoit Baudry, L. Seinturier. arXiv:1810.05806 [Download](https://arxiv.org/abs/1810.05806)
 
 
 # 2017 
 
-*Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  (International Conference on Mobile Software Engineering and Systems). In Proceedings of the 4th **International Conference on Mobile Software Engineering and Systems** (MOBILESoft '17). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](http://dl.acm.org/citation.cfm?id=3104119)
+*Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  **International Conference on Mobile Software Engineering and Systems (MOBILESoft 2017)** (2017). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](http://dl.acm.org/citation.cfm?id=3104119)
 
 *Astor repair framework*. M.Martinez. **Dagstuhl Seminar on automated program repair**. [Link](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17022)
 

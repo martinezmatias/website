@@ -21,19 +21,21 @@ weight = 2
 
 # 2019
 
-*Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. M. White, M. Tufano, M. Martinez, M. Monperrus, D. Poshyvanyk. In Proceedings of **SANER 2019**. arXiv:1707.04742 [Download](https://arxiv.org/pdf/1707.04742.pdf) 
+*An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. **Empirical Software Engineering Journal** (2019) doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
 
 *Coming: a tool for mining change pattern instances from git commits*. M. Martinez and M. Monperrus. 2019. To appear in **ICSE Demonstration 2019**. arXiv:1810.08532 [Download](https://arxiv.org/abs/1810.08532)
 
+*Sorting and Transforming Program Repair Ingredients via Deep Learning Code Similarities*. M. White, M. Tufano, M. Martinez, M. Monperrus, D. Poshyvanyk. In Proceedings of **SANER 2019**. doi: 10.1109/SANER.2019.8668043 [Download](https://arxiv.org/pdf/1707.04742.pdf) 
+
 *Alleviating Patch Overfitting with Automatic Test Generation: A Study of Feasibility and Effectiveness for the Nopol Repair System* Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **ICSE 2019 Journal First** (2019) doi: 10.1007/s10664-018-9619-4 [Download](https://arxiv.org/abs/1703.00198)  
 
-*A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark* H. Ye, M. Martinez,T. Durieux, M. Monperrus.  **International Workshop on Intelligent Bug Fixing (IBF 2019) co-located with SANER 2019**. arXiv:1805.03454 [Download](https://arxiv.org/abs/1805.03454) 
+*A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark* H. Ye, M. Martinez,T. Durieux, M. Monperrus.  **International Workshop on Intelligent Bug Fixing (IBF 2019) co-located with SANER 2019**. doi: 10.1109/IBF.2019.8665475 **Best paper award** [Download](https://arxiv.org/abs/1805.03454). 
 
 *Program Repair at Arbitrary Fault Depth*. B. Khaireddine, M. Martinez, A. Mili. **ICST 2019 Tools Track** (2019).
 
-*Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. **Journal of Systems and Software (JSS)** (2019) arXiv:1802.03365 [Download](https://arxiv.org/abs/1802.03365)
+*Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. **Journal of Systems and Software (JSS)** (2019) doi: https://doi.org/10.1016/j.jss.2019.01.069 [Download](https://arxiv.org/abs/1802.03365)
 
-*Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez **International Conference on Mobile Software Engineering and Systems (MobileSoft)** (2019)[Download](https://arxiv.org/abs/1712.09569)
+*Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez **International Conference on Mobile Software Engineering and Systems (MobileSoft)** (2019) [Download](https://arxiv.org/abs/1712.09569)
 
 
 # 2018
@@ -42,8 +44,6 @@ weight = 2
 Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software Engineering Journal** (2018) doi: 10.1007/s10664-018-9619-4 [Download](https://hal.inria.fr/hal-01774223)  
 
 *Ultra-Large Repair Search Space with Automatically Mined Templates: the Cardumen Mode of Astor*. M. Martinez, M. Monperrus. **Symposium on Search-Based Software Engineering** (2018) arXiv:1712.03854 [Download](https://arxiv.org/abs/1712.03854)
-
-*An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. arXiv:1808.00025  [Download](https://arxiv.org/abs/1808.00025)
 
 *Human-competitive Patches in Automatic Program Repair with Repairnator* M. Monperrus, S. Urli, T. Durieux, M. Martinez, Benoit Baudry, L. Seinturier. arXiv:1810.05806 [Download](https://arxiv.org/abs/1810.05806)
 

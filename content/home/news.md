@@ -17,16 +17,22 @@ weight = 6
 #
 +++
 
-## Last news:
+## Last news (2019):
+
+* Our paper *Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*  was accepted to the technical program of ESEC/FSE 2019 (Foundations of Software Engineering).
 
 
 * Our paper *A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark*  was selected as the **best paper**  of the International Workshop on Intelligent Bug Fixing (IBF 2019) co-located with SANER 2019.
 
 
+* Our paper *Human-competitive Patches in Automatic Program Repair with Repairnator* was accepted to ACM Ubiquity.
+
 * I participate in the Program Committee of ICSE 2019 Demonstration [Web site](https://2019.icse-conferences.org/track/icse-2019-Demonstrations).
 
 
 ## Last news about our research on Kotlin:
+
+* Our paper *An Empirical Study on Quality of Android Applications written in Kotlin language* has been accepted in Empirical Software Engineering journal. 
 
 
 * Our research mentioned on the KotlinConf 2018 by Marvin Ramin ([See presentation here](https://www.youtube.com/watch?v=yjhQiP0329M&index=12&list=PLQ176FUIyIUbVvFMqDc2jhxS-t562uytr&t=0s)).

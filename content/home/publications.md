@@ -21,7 +21,7 @@ weight = 2
 
 # 2019
 
-*Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*. T. Durieux, F. Madeiral, M. Martinez, R. Abreu. **ESEC/FSE** (2019). [Download](https://arxiv.org/abs/1905.11973)
+*Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*. T. Durieux, F. Madeiral, M. Martinez, R. Abreu. **ESEC/FSE** (2019). [Download](https://arxiv.org/abs/1905.11973). **News:** [ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2019](https://twitter.com/sigsoft/status/1135707729044094977)
 
 *An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. **Empirical Software Engineering Journal** (2019) doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
 
@@ -39,6 +39,7 @@ weight = 2
 
 *Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez **International Conference on Mobile Software Engineering and Systems (MobileSoft)** (2019) [Download](https://arxiv.org/abs/1712.09569)
 
+*Learning the Relation between Code Features and Code Transforms with Structured Prediction* Z. Yu, M. Martinez, T. Bissyandé, M. Monperrus. [Download](https://www.monperrus.net/martin/learning-code-transforms.pdf)
 
 # 2018
 

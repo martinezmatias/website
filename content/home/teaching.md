@@ -18,8 +18,6 @@ weight = 5
  I am assistant professor (Maitre de Conférences in France) at the ISTV University of Valenciennes. I am in charge of the following courses:
 
 - Advanced programming in C
-- Data bases security (Master course)
-- Data privacy and security (Master course)
 - Object-oriented programming
 - Programming in Java language
 - Design of Distributed Systems

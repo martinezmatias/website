@@ -19,7 +19,7 @@ weight = 6
 
 ## Last news (2019):
 
-* Our paper *Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*  was accepted to the technical program of ESEC/FSE 2019 (Foundations of Software Engineering).
+* Our paper *Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*  was accepted to the technical program of ESEC/FSE 2019 (Foundations of Software Engineering) and won ACM SIGSOFT **Distinguished Paper Award** at ESEC/FSE 2019.
 
 
 * Our paper *A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark*  was selected as the **best paper**  of the International Workshop on Intelligent Bug Fixing (IBF 2019) co-located with SANER 2019.

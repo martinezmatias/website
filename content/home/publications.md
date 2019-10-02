@@ -13,8 +13,6 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 2
 
-# *Do Mobile Developers Ask on Q&A Sites About Error Codes Thrown by a Cross-Platform App Development Framework? An Empirical Study*. Matias Martinez, Sylvain Lecomte. [Download](https://arxiv.org/abs/1801.07026) (Under submission)
-#*XamForumDB: a dataset for studying Q&A about cross-platform mobile applications development*. M. Martinez, S. Lecomte. [Download](https://arxiv.org/abs/1703.03631)
 #
 #
 +++
@@ -25,7 +23,7 @@ weight = 2
 
 *An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. **Empirical Software Engineering Journal** (2019) doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
 
-*Coming: a tool for mining change pattern instances from git commits*. M. Martinez and M. Monperrus. 2019. To appear in **ICSE Demonstration 2019**. arXiv:1810.08532 [Download](https://arxiv.org/abs/1810.08532)
+*Coming: a tool for mining change pattern instances from git commits*. M. Martinez and M. Monperrus. 2019. To appear in **2019 IEEE/ACM 41st International Conference on Software Engineering (Demonstration Track)*. doi: 10.1109/ICSE-Companion.2019.00043 [Download](https://arxiv.org/abs/1810.08532)
 
 *Repairnator patches programs automatically*. M. Monperrus, S. Urli, T. Durieux, M. Martinez, Benoit Baudry, L. Seinturier. **Ubiquity, Association for Computing Machinery** (2019) doi: 10.1145/ 3349589 [Download](https://hal.inria.fr/hal-02267512)
 
@@ -41,7 +39,9 @@ weight = 2
 
 *Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez **International Conference on Mobile Software Engineering and Systems (MobileSoft)** (2019) [Download](https://arxiv.org/abs/1712.09569)
 
-*Learning the Relation between Code Features and Code Transforms with Structured Prediction* Z. Yu, M. Martinez, T. Bissyandé, M. Monperrus. [Download](https://www.monperrus.net/martin/learning-code-transforms.pdf)
+*Learning the Relation between Code Features and Code Transforms with Structured Prediction*. Z. Yu, M. Martinez, T. Bissyandé, M. Monperrus. [Download](https://www.monperrus.net/martin/learning-code-transforms.pdf)
+
+*Automated Patch Assessment for Program Repair at Scale*.  H. Ye, M. Martinez, M. Monperrus. [Download](https://arxiv.org/abs/1909.13694)
 
 *On the adoption, usage and evolution of Kotlin Features on Android development*. B. Gois Mateus, M. Martinez. [Download](https://arxiv.org/abs/1907.09003)
 

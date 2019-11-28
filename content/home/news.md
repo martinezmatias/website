@@ -27,7 +27,11 @@ weight = 6
 
 * Our paper *Human-competitive Patches in Automatic Program Repair with Repairnator* was accepted to ACM Ubiquity.
 
-* I participate in the Program Committee of ICSE 2019 Demonstration [Web site](https://2019.icse-conferences.org/track/icse-2019-Demonstrations).
+* I participate in the Program Committee of ENIAC20 First International Workshop on ENgineering Intelligent Applications' Code 2020 [Web site](https://2020.programming-conference.org/home/eniac-2020)
+
+* I participate in the Program Committee of Mobilesoft 2020 Vision track [Web site](https://conf.researchr.org/track/mobilesoft-2020/mobilesoft-2020-vision)
+
+* I participated in the Program Committee of ICSE 2019 Demonstration [Web site](https://2019.icse-conferences.org/track/icse-2019-Demonstrations).
 
 
 ## Last news about our research on Kotlin:

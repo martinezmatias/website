@@ -23,7 +23,7 @@ weight = 2
 
 *An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. **Empirical Software Engineering Journal** (2019) doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
 
-*Coming: a tool for mining change pattern instances from git commits*. M. Martinez and M. Monperrus. 2019. To appear in **2019 IEEE/ACM 41st International Conference on Software Engineering (Demonstration Track)**. doi: 10.1109/ICSE-Companion.2019.00043 [Download](https://arxiv.org/abs/1810.08532)
+*Coming: a tool for mining change pattern instances from git commits*. M. Martinez and M. Monperrus. 2019. **2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE Demonstration Track)**. doi: 10.1109/ICSE-Companion.2019.00043 [Download](https://arxiv.org/abs/1810.08532)
 
 *Repairnator patches programs automatically*. M. Monperrus, S. Urli, T. Durieux, M. Martinez, Benoit Baudry, L. Seinturier. **Ubiquity, Association for Computing Machinery** (2019) doi: 10.1145/ 3349589 [Download](https://hal.inria.fr/hal-02267512)
 
@@ -35,7 +35,7 @@ weight = 2
 
 *Program Repair at Arbitrary Fault Depth*. B. Khaireddine, M. Martinez, A. Mili. **IEEE Conference on Software Testing (ICST)** (2019) DOI:10.1109/ICST.2019.00056 [Download](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8730184&tag=1).
 
-*Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. **Journal of Systems and Software (JSS)** (2019) doi: https://doi.org/10.1016/j.jss.2019.01.069 [Download](https://arxiv.org/abs/1802.03365)
+*Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. **Journal of Systems and Software (JSS) and Automated Software Engineering (ASE) First Journal Track** (2019) doi: https://doi.org/10.1016/j.jss.2019.01.069 [Download](https://arxiv.org/abs/1802.03365)
 
 *Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez **International Conference on Mobile Software Engineering and Systems (MobileSoft)** (2019) doi: 10.1109/MOBILESoft.2019.00032 [Download](https://arxiv.org/abs/1712.09569)
 

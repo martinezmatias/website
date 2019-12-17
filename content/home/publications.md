@@ -47,6 +47,7 @@ weight = 2
 
 *On the adoption, usage and evolution of Kotlin Features on Android development*. B. Gois Mateus, M. Martinez. [Download](https://arxiv.org/abs/1907.09003)
 
+*RTj: a Java framework for detecting and refactoring rotten green test cases* M. Martinez, A. Etien, S. Ducasse, C. Fuhrman. [Download](https://arxiv.org/abs/1912.07322) 
 
 # 2018
 

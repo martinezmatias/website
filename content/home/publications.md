@@ -17,6 +17,13 @@ weight = 2
 #
 +++
 
+# 2020
+
+*RTj: a Java framework for detecting and refactoring rotten green test cases* M. Martinez, A. Etien, S. Ducasse, C. Fuhrman. **ICSE International Conference on Software Engineering - Demonstration Track** [Download](https://arxiv.org/abs/1912.07322) 
+
+*An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. **ICSE Journal-First 2020** doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
+
+
 # 2019
 
 *Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*. T. Durieux, F. Madeiral, M. Martinez, R. Abreu. **ESEC/FSE** (2019) doi: 10.1145/ 3338906.3338911. [Download](https://arxiv.org/abs/1905.11973). **News:** [ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2019](https://twitter.com/sigsoft/status/1135707729044094977)
@@ -47,7 +54,6 @@ weight = 2
 
 *On the adoption, usage and evolution of Kotlin Features on Android development*. B. Gois Mateus, M. Martinez. [Download](https://arxiv.org/abs/1907.09003)
 
-*RTj: a Java framework for detecting and refactoring rotten green test cases* M. Martinez, A. Etien, S. Ducasse, C. Fuhrman. [Download](https://arxiv.org/abs/1912.07322) 
 
 # 2018
 

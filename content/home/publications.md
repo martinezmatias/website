@@ -23,6 +23,9 @@ weight = 2
 
 *An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. **ICSE Journal-First 2020** doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
 
+*On the adoption, usage and evolution of Kotlin Features on Android development*. B. Gois Mateus, M. Martinez. [Download](https://arxiv.org/abs/1907.09003)
+
+*E-APR: Mapping the Effectiveness of Automated Program Repair* A. Aleti and M. Martinez [Download](https://arxiv.org/abs/2002.03968)
 
 # 2019
 
@@ -52,7 +55,6 @@ weight = 2
 
 *Automated Classification of Overfitting Patches with Statically Extracted Code Features* H. Ye, J. Gu, M. Martinez, T. Durieux, M. Monperrus. [Download](https://arxiv.org/abs/1910.12057)
 
-*On the adoption, usage and evolution of Kotlin Features on Android development*. B. Gois Mateus, M. Martinez. [Download](https://arxiv.org/abs/1907.09003)
 
 
 # 2018

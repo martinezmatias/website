@@ -27,6 +27,9 @@ weight = 6
 
 * Our paper *Human-competitive Patches in Automatic Program Repair with Repairnator* was accepted to ACM Ubiquity.
 
+* I participate in the Program Committee of the  1st International Workshop on Automated Program Repair
+(APR'20) [Web site](http://program-repair.org/workshop-2020/)
+
 * I participate in the Program Committee of ENIAC20 First International Workshop on ENgineering Intelligent Applications' Code 2020 [Web site](https://2020.programming-conference.org/home/eniac-2020)
 
 * I participate in the Program Committee of Mobilesoft 2020 Vision track [Web site](https://conf.researchr.org/track/mobilesoft-2020/mobilesoft-2020-vision)

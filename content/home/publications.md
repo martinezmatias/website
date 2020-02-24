@@ -45,7 +45,7 @@ weight = 2
 
 *Program Repair at Arbitrary Fault Depth*. B. Khaireddine, M. Martinez, A. Mili. **IEEE Conference on Software Testing (ICST)** (2019) DOI:10.1109/ICST.2019.00056 [Download](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8730184&tag=1).
 
-*Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. **Journal of Systems and Software (JSS) and Automated Software Engineering (ASE) First Journal Track** (2019) doi: https://doi.org/10.1016/j.jss.2019.01.069 [Download](https://arxiv.org/abs/1802.03365)
+*Astor: Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg*. M. Martinez, M. Monperrus. **Journal of Systems and Software (JSS) and Automated Software Engineering (ASE) Journal-First Track** (2019) doi: https://doi.org/10.1016/j.jss.2019.01.069 [Download](https://arxiv.org/abs/1802.03365)
 
 *Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez **International Conference on Mobile Software Engineering and Systems (MobileSoft)** (2019) doi: 10.1109/MOBILESoft.2019.00032 [Download](https://arxiv.org/abs/1712.09569)
 

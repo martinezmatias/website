@@ -17,6 +17,8 @@ weight = 2
 #
 +++
 
+[See all publications on Google Scholar](https://scholar.google.fr/citations?hl=en&view_op=list_works&gmla=AJsN-F4qk0ixeZSzyK-VonR_7z4E8Mh7uurYirww5fWLlH7VYY-auM7lhSQ4alLoeC3CWlDW8BOC7GOlmkofpCytBrawFHvdCA&user=glRf46S0yTIC)
+
 # 2020
 
 *RTj: a Java framework for detecting and refactoring rotten green test cases* M. Martinez, A. Etien, S. Ducasse, C. Fuhrman. **ICSE International Conference on Software Engineering - Demonstration Track** [Download](https://arxiv.org/abs/1912.07322) 

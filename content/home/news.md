@@ -17,7 +17,10 @@ weight = 6
 #
 +++
 
-## Last news (2019):
+## Latest news (2020):
+
+* I participate in the Program Committee Workshop Selection Committee for the 43rd International Conference on Software Engineering (ICSE'21).
+
 
 * Our paper *Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*  was accepted to the technical program of ESEC/FSE 2019 (Foundations of Software Engineering) and won ACM SIGSOFT **Distinguished Paper Award** at ESEC/FSE 2019.
 
@@ -35,6 +38,7 @@ weight = 6
 * I participate in the Program Committee of Mobilesoft 2020 Vision track [Web site](https://conf.researchr.org/track/mobilesoft-2020/mobilesoft-2020-vision)
 
 * I participated in the Program Committee of ICSE 2019 Demonstration [Web site](https://2019.icse-conferences.org/track/icse-2019-Demonstrations).
+
 
 
 ## Last news about our research on Kotlin:

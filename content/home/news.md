@@ -19,7 +19,8 @@ weight = 6
 
 ## Latest news (2020):
 
-* I participate in the Program Committee Workshop Selection Committee for the 43rd International Conference on Software Engineering (ICSE'21).
+
+* I participate in the Program Committee of the Workshop Selection Committee for the 43rd International Conference on Software Engineering (ICSE'21).
 
 
 * Our paper *Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*  was accepted to the technical program of ESEC/FSE 2019 (Foundations of Software Engineering) and won ACM SIGSOFT **Distinguished Paper Award** at ESEC/FSE 2019.

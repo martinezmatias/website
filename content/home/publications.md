@@ -29,6 +29,9 @@ weight = 2
 
 *E-APR: Mapping the Effectiveness of Automated Program Repair* A. Aleti and M. Martinez [Download](https://arxiv.org/abs/2002.03968)
 
+*How and Why did developers migrate Android Applications from Java to Kotlin? A study based on code analysis and interviews with developers* Matias Martinez, Bruno Gois Mateus [Download](https://arxiv.org/abs/2003.12730)
+
+
 # 2019
 
 *Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*. T. Durieux, F. Madeiral, M. Martinez, R. Abreu. **ESEC/FSE** (2019) doi: 10.1145/ 3338906.3338911. [Download](https://arxiv.org/abs/1905.11973). **News:** [ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2019](https://twitter.com/sigsoft/status/1135707729044094977)

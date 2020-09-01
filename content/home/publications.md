@@ -23,9 +23,9 @@ weight = 2
 
 *RTj: a Java framework for detecting and refactoring rotten green test cases* M. Martinez, A. Etien, S. Ducasse, C. Fuhrman. **ICSE International Conference on Software Engineering - Demonstration Track** [Download](https://arxiv.org/abs/1912.07322) 
 
-*An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. **ICSE Journal-First 2020** doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
+*An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. **ICSE ICSE International Conference on Software Engineering Journal-First 2020** doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
 
-*On the adoption, usage and evolution of Kotlin Features on Android development*. B. Gois Mateus, M. Martinez. [Download](https://arxiv.org/abs/1907.09003)
+*On the adoption, usage and evolution of Kotlin Features on Android development*. B. Gois Mateus, M. Martinez. **Empirical Software Engineering and Measurement. ESEM 2020** [Download](https://arxiv.org/abs/1907.09003)
 
 *E-APR: Mapping the Effectiveness of Automated Program Repair* A. Aleti and M. Martinez [Download](https://arxiv.org/abs/2002.03968)
 
@@ -34,11 +34,11 @@ weight = 2
 
 # 2019
 
-*Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*. T. Durieux, F. Madeiral, M. Martinez, R. Abreu. **ESEC/FSE** (2019) doi: 10.1145/ 3338906.3338911. [Download](https://arxiv.org/abs/1905.11973). **News:** [ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2019](https://twitter.com/sigsoft/status/1135707729044094977)
+*Empirical Review of Program Repair Tools: A Large-Scale Experiment on 2 141 Bugs and 23 551 Repair Attempts*. T. Durieux, F. Madeiral, M. Martinez, R. Abreu. **ESEC/FSE Foundations of Software Engineering** (2019) doi: 10.1145/ 3338906.3338911. [Download](https://arxiv.org/abs/1905.11973). **News:** [ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2019](https://twitter.com/sigsoft/status/1135707729044094977)
 
 *An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. **Empirical Software Engineering Journal** (2019) doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
 
-*Coming: a tool for mining change pattern instances from git commits*. M. Martinez and M. Monperrus. 2019. **2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE Demonstration Track)**. doi: 10.1109/ICSE-Companion.2019.00043 [Download](https://arxiv.org/abs/1810.08532)
+*Coming: a tool for mining change pattern instances from git commits*. M. Martinez and M. Monperrus. 2019. **International Conference on Software Engineering (ICSE Demonstration Track)**. doi: 10.1109/ICSE-Companion.2019.00043 [Download](https://arxiv.org/abs/1810.08532)
 
 *Repairnator patches programs automatically*. M. Monperrus, S. Urli, T. Durieux, M. Martinez, Benoit Baudry, L. Seinturier. **Ubiquity, Association for Computing Machinery** (2019) doi: 10.1145/ 3349589 [Download](https://hal.inria.fr/hal-02267512)
 

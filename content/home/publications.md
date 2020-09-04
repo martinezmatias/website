@@ -27,10 +27,11 @@ weight = 2
 
 *On the adoption, usage and evolution of Kotlin Features on Android development*. B. Gois Mateus, M. Martinez. **Empirical Software Engineering and Measurement. ESEM 2020** [Download](https://arxiv.org/abs/1907.09003)
 
-*E-APR: Mapping the Effectiveness of Automated Program Repair* A. Aleti and M. Martinez [Download](https://arxiv.org/abs/2002.03968)
+*E-APR: Mapping the Effectiveness of Automated Program Repair*. A. Aleti and M. Martinez [Download](https://arxiv.org/abs/2002.03968)
 
 *How and Why did developers migrate Android Applications from Java to Kotlin? A study based on code analysis and interviews with developers* Matias Martinez, Bruno Gois Mateus [Download](https://arxiv.org/abs/2003.12730)
 
+*Longitudinal Analysis of the Applicability of Program Repair on Past Commits*. K. Etemadi, N. Tarighat, S. Yadav, M. Martinez, M. Monperrus. [Download](https://arxiv.org/abs/2007.06986) 
 
 # 2019
 

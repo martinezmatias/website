@@ -21,11 +21,14 @@ weight = 2
 
 # 2020
 
-*RTj: a Java framework for detecting and refactoring rotten green test cases* M. Martinez, A. Etien, S. Ducasse, C. Fuhrman. **ICSE International Conference on Software Engineering - Demonstration Track** [Download](https://arxiv.org/abs/1912.07322) 
+*RTj: a Java framework for detecting and refactoring rotten green test cases.* M. Martinez, A. Etien, S. Ducasse, C. Fuhrman. **ICSE International Conference on Software Engineering - Demonstration Track** [Download](https://arxiv.org/abs/1912.07322) 
+ 
+*On the adoption, usage and evolution of Kotlin Features on Android development.* B. Gois Mateus, M. Martinez. **Empirical Software Engineering and Measurement (ESEM 2020)** [Download](https://arxiv.org/abs/1907.09003)
+ 
+*A comprehensive study of automatic program repair on the QuixBugs benchmark.* H. Ye, M, Martinez, T. Durieux, M, Monperrus. **Journal of Systems and Software (JSS)**. doi: https://doi.org/10.1016/j.jss.2020.110825. [Download](https://doi.org/10.1016/j.jss.2020.110825)
 
-*An Empirical Study on Quality of Android Applications written in Kotlin language*. B. Gois Mateus, M. Martinez. **ICSE ICSE International Conference on Software Engineering Journal-First 2020** doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
+*An Empirical Study on Quality of Android Applications written in Kotlin language.* B. Gois Mateus, M. Martinez. **ICSE International Conference on Software Engineering -Journal First- 2020** doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
 
-*On the adoption, usage and evolution of Kotlin Features on Android development*. B. Gois Mateus, M. Martinez. **Empirical Software Engineering and Measurement. ESEM 2020** [Download](https://arxiv.org/abs/1907.09003)
 
 *E-APR: Mapping the Effectiveness of Automated Program Repair*. A. Aleti and M. Martinez [Download](https://arxiv.org/abs/2002.03968)
 

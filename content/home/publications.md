@@ -22,7 +22,9 @@ weight = 2
 # 2020
 
 *RTj: a Java framework for detecting and refactoring rotten green test cases.* M. Martinez, A. Etien, S. Ducasse, C. Fuhrman. **ICSE International Conference on Software Engineering - Demonstration Track** [Download](https://arxiv.org/abs/1912.07322) 
- 
+
+*Automated Patch Assessment for Program Repair at Scale*.  H. Ye, M. Martinez, M. Monperrus. **Empirical Software Engineering Journal**  [Download](https://arxiv.org/abs/1909.13694)
+
 *On the adoption, usage and evolution of Kotlin Features on Android development.* B. Gois Mateus, M. Martinez. **Empirical Software Engineering and Measurement (ESEM 2020)** [Download](https://arxiv.org/abs/1907.09003)
  
 *A comprehensive study of automatic program repair on the QuixBugs benchmark.* H. Ye, M, Martinez, T. Durieux, M, Monperrus. **Journal of Systems and Software (JSS)**. doi: https://doi.org/10.1016/j.jss.2020.110825. [Download](https://doi.org/10.1016/j.jss.2020.110825)
@@ -35,6 +37,7 @@ weight = 2
 *How and Why did developers migrate Android Applications from Java to Kotlin? A study based on code analysis and interviews with developers* Matias Martinez, Bruno Gois Mateus [Download](https://arxiv.org/abs/2003.12730)
 
 *Longitudinal Analysis of the Applicability of Program Repair on Past Commits*. K. Etemadi, N. Tarighat, S. Yadav, M. Martinez, M. Monperrus. [Download](https://arxiv.org/abs/2007.06986) 
+
 
 # 2019
 
@@ -59,8 +62,6 @@ weight = 2
 *Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez **International Conference on Mobile Software Engineering and Systems (MobileSoft)** (2019) doi: 10.1109/MOBILESoft.2019.00032 [Download](https://arxiv.org/abs/1712.09569)
 
 *Learning the Relation between Code Features and Code Transforms with Structured Prediction*. Z. Yu, M. Martinez, T. Bissyandé, M. Monperrus. [Download](https://www.monperrus.net/martin/learning-code-transforms.pdf)
-
-*Automated Patch Assessment for Program Repair at Scale*.  H. Ye, M. Martinez, M. Monperrus. [Download](https://arxiv.org/abs/1909.13694)
 
 *Automated Classification of Overfitting Patches with Statically Extracted Code Features* H. Ye, J. Gu, M. Martinez, T. Durieux, M. Monperrus. [Download](https://arxiv.org/abs/1910.12057)
 

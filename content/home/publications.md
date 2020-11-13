@@ -25,7 +25,7 @@ weight = 2
 
 *Automated Patch Assessment for Program Repair at Scale*.  H. Ye, M. Martinez, M. Monperrus. **Empirical Software Engineering Journal**  [Download](https://arxiv.org/abs/1909.13694)
 
-*On the adoption, usage and evolution of Kotlin Features on Android development.* B. Gois Mateus, M. Martinez. **Empirical Software Engineering and Measurement (ESEM 2020)** [Download](https://arxiv.org/abs/1907.09003)
+*On the adoption, usage and evolution of Kotlin Features on Android development.* B. Gois Mateus, M. Martinez. **Empirical Software Engineering and Measurement (ESEM 2020)** [Download](https://dl.acm.org/doi/10.1145/3382494.3410676)
  
 *A comprehensive study of automatic program repair on the QuixBugs benchmark.* H. Ye, M, Martinez, T. Durieux, M, Monperrus. **Journal of Systems and Software (JSS)**. doi: https://doi.org/10.1016/j.jss.2020.110825. [Download](https://doi.org/10.1016/j.jss.2020.110825)
 
@@ -77,7 +77,7 @@ Z. Yu, M. Martinez, B. Danglot, T. Durieux, M. Monperrus.  **Empirical Software 
 
 # 2017 
 
-*Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  **International Conference on Mobile Software Engineering and Systems (MOBILESoft 2017)** (2017). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](http://dl.acm.org/citation.cfm?id=3104119)
+*Towards the quality improvement of cross-platform mobile applications*. M. Martinez, S. Lecomte.  **International Conference on Mobile Software Engineering and Systems (MOBILESoft 2017)** (2017). DOI: https://doi.org/10.1109/MOBILESoft.2017.30 [Download](https://arxiv.org/pdf/1701.06767.pdf)
 
 *Astor repair framework*. M.Martinez. **Dagstuhl Seminar on automated program repair**. [Link](http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17022)
 

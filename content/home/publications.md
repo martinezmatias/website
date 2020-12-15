@@ -40,7 +40,9 @@ weight = 2
 
 *Longitudinal Analysis of the Applicability of Program Repair on Past Commits*. K. Etemadi, N. Tarighat, S. Yadav, M. Martinez, M. Monperrus. [Download](https://arxiv.org/abs/2007.06986) 
 
+*A Comprehensive Study of Code-removal Patches in Automated Program Repair*.  D. Ginelli, M. Martinez, L. Mariani, M. Monperrus. [Download](https://arxiv.org/abs/2012.06264)
 
+*R-Hero: A Software Repair Bot based on Continual Learning*. B. Baudry, Z. Chen, K. Etemadi, H. Fu, D. Ginelli, S. Kommrusch, M. Martinez, M. Monperrus, J.r Ron, H. Ye, Z. Yu. [Download](https://arxiv.org/abs/2012.06824)
 
 # 2019
 

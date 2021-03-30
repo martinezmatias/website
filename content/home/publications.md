@@ -19,6 +19,15 @@ weight = 2
 
 [See all publications on Google Scholar](https://scholar.google.fr/citations?hl=en&view_op=list_works&gmla=AJsN-F4qk0ixeZSzyK-VonR_7z4E8Mh7uurYirww5fWLlH7VYY-auM7lhSQ4alLoeC3CWlDW8BOC7GOlmkofpCytBrawFHvdCA&user=glRf46S0yTIC)
 
+# 2021
+
+*Automated Classification of Overfitting Patches with Statically Extracted Code Features*  H. Ye, J. Gu, M. Martinez, T. Durieux, M. Monperrus. **Transactions on Software Engineering (TSE)** [Download](https://arxiv.org/abs/1910.12057)
+
+*R-Hero: A Software Repair Bot based on Continual Learning*. B. Baudry, Z. Chen, K. Etemadi, H. Fu, D. Ginelli, S. Kommrusch, M. Martinez, M. Monperrus, J.r Ron, H. Ye, Z. Yu. **IEEE Software**   [Download](https://arxiv.org/abs/2012.06824)
+
+*An experience-based recommendation system to support migrations of Android applications from Java to Kotlin* Bruno Góis Mateus, Christophe Kolski,  Matias Martinez. [Download](https://arxiv.org/pdf/2103.09728v2.pdf) 
+
+
 # 2020
 
 *RTj: a Java framework for detecting and refactoring rotten green test cases.* M. Martinez, A. Etien, S. Ducasse, C. Fuhrman. **ICSE International Conference on Software Engineering - Demonstration Track** [Download](https://arxiv.org/abs/1912.07322) 
@@ -42,7 +51,6 @@ weight = 2
 
 *A Comprehensive Study of Code-removal Patches in Automated Program Repair*.  D. Ginelli, M. Martinez, L. Mariani, M. Monperrus. [Download](https://arxiv.org/abs/2012.06264)
 
-*R-Hero: A Software Repair Bot based on Continual Learning*. B. Baudry, Z. Chen, K. Etemadi, H. Fu, D. Ginelli, S. Kommrusch, M. Martinez, M. Monperrus, J.r Ron, H. Ye, Z. Yu. [Download](https://arxiv.org/abs/2012.06824)
 
 # 2019
 
@@ -67,9 +75,6 @@ weight = 2
 *Two Datasets of Questions and Answers for Studying the Development of Cross-platform Mobile Applications using Xamarin Framework*. M.Martinez **International Conference on Mobile Software Engineering and Systems (MobileSoft)** (2019) doi: 10.1109/MOBILESoft.2019.00032 [Download](https://arxiv.org/abs/1712.09569)
 
 *Learning the Relation between Code Features and Code Transforms with Structured Prediction*. Z. Yu, M. Martinez, T. Bissyandé, M. Monperrus. [Download](https://www.monperrus.net/martin/learning-code-transforms.pdf)
-
-*Automated Classification of Overfitting Patches with Statically Extracted Code Features* H. Ye, J. Gu, M. Martinez, T. Durieux, M. Monperrus. [Download](https://arxiv.org/abs/1910.12057)
-
 
 
 # 2018

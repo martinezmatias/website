@@ -15,7 +15,8 @@ weight = 5
 
 +++
 
- I am assistant professor (Maitre de Conférences in France) at the ISTV University of Valenciennes. I am in charge of the following courses:
+ I am assistant professor (Maitre de Conférences in France) at the Université Polytechnique Hauts-de France and INSA Hauts-de-France. 
+ I am lecturer of the following courses:
 
 - Advanced programming in C
 - Object-oriented programming

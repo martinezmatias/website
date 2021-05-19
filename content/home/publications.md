@@ -21,11 +21,13 @@ weight = 2
 
 # 2021
 
-*Automated Classification of Overfitting Patches with Statically Extracted Code Features*  H. Ye, J. Gu, M. Martinez, T. Durieux, M. Monperrus. **Transactions on Software Engineering (TSE)** [Download](https://arxiv.org/abs/1910.12057)
+*E-APR: Mapping the Effectiveness of Automated Program Repair*. A. Aleti and M. Martinez. **Empirical Software Engineering Journal** (To appear) [Download](https://arxiv.org/abs/2002.03968)
+
+*Automated Classification of Overfitting Patches with Statically Extracted Code Features*.  H. Ye, J. Gu, M. Martinez, T. Durieux, M. Monperrus. **Transactions on Software Engineering (TSE)** [Download](https://arxiv.org/abs/1910.12057)
 
 *R-Hero: A Software Repair Bot based on Continual Learning*. B. Baudry, Z. Chen, K. Etemadi, H. Fu, D. Ginelli, S. Kommrusch, M. Martinez, M. Monperrus, J.r Ron, H. Ye, Z. Yu. **IEEE Software**   [Download](https://arxiv.org/abs/2012.06824)
 
-*An experience-based recommendation system to support migrations of Android applications from Java to Kotlin* Bruno Góis Mateus, Christophe Kolski,  Matias Martinez. [Download](https://arxiv.org/pdf/2103.09728v2.pdf) 
+*An experience-based recommendation system to support migrations of Android applications from Java to Kotlin*. Bruno Góis Mateus, Christophe Kolski,  Matias Martinez. [Download](https://arxiv.org/pdf/2103.09728v2.pdf) 
 
 
 # 2020
@@ -39,9 +41,6 @@ weight = 2
 *A comprehensive study of automatic program repair on the QuixBugs benchmark.* H. Ye, M, Martinez, T. Durieux, M, Monperrus. **Journal of Systems and Software (JSS)**. doi: https://doi.org/10.1016/j.jss.2020.110825. [Download](https://doi.org/10.1016/j.jss.2020.110825)
 
 *An Empirical Study on Quality of Android Applications written in Kotlin language.* B. Gois Mateus, M. Martinez. **ICSE International Conference on Software Engineering -Journal First- 2020** doi: 10.1007/s10664-019-09727-4  [Download](https://arxiv.org/abs/1808.00025)
-
-
-*E-APR: Mapping the Effectiveness of Automated Program Repair*. A. Aleti and M. Martinez [Download](https://arxiv.org/abs/2002.03968)
 
 *How and Why did developers migrate Android Applications from Java to Kotlin? A study based on code analysis and interviews with developers*. Matias Martinez, Bruno Gois Mateus [Download](https://arxiv.org/abs/2003.12730)
 

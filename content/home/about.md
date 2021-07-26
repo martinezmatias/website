@@ -38,4 +38,6 @@ I got my PhD degree in October 2014 from [University of Lille (France)](http://w
 I have worked in the private sector as software developer (Java, Web, SOA, Mobile).  
 Currently I develop and maintain [Astor](https://github.com/SpoonLabs/astor), an automated program repair framework, and [Coming](https://github.com/SpoonLabs/coming), a tool for mining commits  from Git repositories.
 
+**News**: I appear in the second place on the ranking of **Most Impactful Early-stage Software Engineering Researchers** during the period 2013-2020,  elaborated by the E. Wong et colleagues at [A bibliometric assessment of software engineering themes, scholars and institutions (2013–2020)](https://www.sciencedirect.com/science/article/abs/pii/S0164121221001266), and in the nineteenth place on the ranking of **Most Active Early-stage Software Engineering Researchers in Top-Quality journals**. 
+
   

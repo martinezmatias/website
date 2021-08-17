@@ -27,7 +27,7 @@ weight = 2
 
 *R-Hero: A Software Repair Bot based on Continual Learning*. B. Baudry, Z. Chen, K. Etemadi, H. Fu, D. Ginelli, S. Kommrusch, M. Martinez, M. Monperrus, J.r Ron, H. Ye, Z. Yu. **IEEE Software**   [Download](https://arxiv.org/abs/2012.06824)
 
-*Green Tests in Java, Pharo and Python: An Empirical Study*. V. Aranega,  J. Delplanque, M. Martinez, A. P. Black, S. Ducasse, A. Etien, C. Fuhrman, G. Polito. **Empirical Software Engineering Journal** [To appear](https://www.martinezmatias.com)
+*Green Tests in Java, Pharo and Python: An Empirical Study*. V. Aranega,  J. Delplanque, M. Martinez, A. P. Black, S. Ducasse, A. Etien, C. Fuhrman, G. Polito. **Empirical Software Engineering Journal** [Download](https://hal.inria.fr/hal-03281836/document)
 
 *An experience-based recommendation system to support migrations of Android applications from Java to Kotlin*. Bruno Góis Mateus, Christophe Kolski,  Matias Martinez. [Download](https://arxiv.org/pdf/2103.09728v2.pdf) 
 

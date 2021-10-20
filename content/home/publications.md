@@ -21,15 +21,17 @@ weight = 2
 
 # 2021
 
-*Why did developers migrate Android Applications from Java to Kotlin?* M. Martinez, B.Gois Mateus. **Transactions on Software Engineering** (2021) [Download](https://arxiv.org/abs/2003.12730)
+*Why did developers migrate Android Applications from Java to Kotlin?* M. Martinez, B.Gois Mateus. **Transactions on Software Engineering** (2021). DOI: 0.1109/TSE.2021.3120367 [Download Arxiv](https://arxiv.org/abs/2003.12730) [Download IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9576593)
 
-*E-APR: Mapping the Effectiveness of Automated Program Repair*. A. Aleti and M. Martinez. **Empirical Software Engineering Journal** (To appear) [Download](https://arxiv.org/abs/2002.03968)
+*E-APR: Mapping the Effectiveness of Automated Program Repair*. A. Aleti and M. Martinez. **Empirical Software Engineering Journal** (2021)  DOI: https://doi.org/10.1007/s10664-021-09989-x  [Download Arxiv](https://arxiv.org/abs/2002.03968) [Download Springer] (https://link.springer.com/article/10.1007/s10664-021-09989-x)
 
-*Automated Classification of Overfitting Patches with Statically Extracted Code Features*.  H. Ye, J. Gu, M. Martinez, T. Durieux, M. Monperrus. **Transactions on Software Engineering (TSE)** [Download](https://arxiv.org/abs/1910.12057)
+*Patchworking: Exploring the Code Changes induced by Vulnerability Fixing Activities* G. Canfora, A. Di Sorbo; S. Forootani, M. Martinez, C. A. Visaggio. **Information and Software Technology** (2021). To appear.
+ 
+*Automated Classification of Overfitting Patches with Statically Extracted Code Features*.  H. Ye, J. Gu, M. Martinez, T. Durieux, M. Monperrus. **Transactions on Software Engineering (TSE)** (2021) DOI: 10.1109/TSE.2021.3071750 [Download Arxiv](https://arxiv.org/abs/1910.12057) [Download IEEE Access](https://ieeexplore.ieee.org/document/9399306)
 
-*R-Hero: A Software Repair Bot based on Continual Learning*. B. Baudry, Z. Chen, K. Etemadi, H. Fu, D. Ginelli, S. Kommrusch, M. Martinez, M. Monperrus, J.r Ron, H. Ye, Z. Yu. **IEEE Software**   [Download](https://arxiv.org/abs/2012.06824)
+*R-Hero: A Software Repair Bot based on Continual Learning*. B. Baudry, Z. Chen, K. Etemadi, H. Fu, D. Ginelli, S. Kommrusch, M. Martinez, M. Monperrus, J.r Ron, H. Ye, Z. Yu. **IEEE Software**  (2021) DOI: 10.1109/MS.2021.3070743  [Download Arxiv](https://arxiv.org/abs/2012.06824) [Download IEEE Xplore](https://ieeexplore.ieee.org/document/9393494)
 
-*Green Tests in Java, Pharo and Python: An Empirical Study*. V. Aranega,  J. Delplanque, M. Martinez, A. P. Black, S. Ducasse, A. Etien, C. Fuhrman, G. Polito. **Empirical Software Engineering Journal** [Download](https://hal.inria.fr/hal-03281836/document)
+*Green Tests in Java, Pharo and Python: An Empirical Study*. V. Aranega,  J. Delplanque, M. Martinez, A. P. Black, S. Ducasse, A. Etien, C. Fuhrman, G. Polito. **Empirical Software Engineering Journal** (2021) DOI: https://doi.org/10.1007/s10664-021-10016-2 [Download Arxiv](https://hal.inria.fr/hal-03281836/document) [Download Springer](https://link.springer.com/article/10.1007/s10664-021-10016-2)
 
 *An experience-based recommendation system to support migrations of Android applications from Java to Kotlin*. Bruno Góis Mateus, Christophe Kolski,  Matias Martinez. [Download](https://arxiv.org/pdf/2103.09728v2.pdf) 
 

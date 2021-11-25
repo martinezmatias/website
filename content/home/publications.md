@@ -25,6 +25,8 @@ weight = 2
 
 *E-APR: Mapping the Effectiveness of Automated Program Repair*. A. Aleti and M. Martinez. **Empirical Software Engineering Journal** (2021).  DOI: 10.1007/s10664-021-09989-x  [[Download Arxiv]](https://arxiv.org/abs/2002.03968) [[Download Springer]](https://link.springer.com/article/10.1007/s10664-021-09989-x)
 
+*A Comprehensive Study of Code-removal Patches in Automated Program Repair*.  D. Ginelli, M. Martinez, L. Mariani, M. Monperrus. **Empirical Software Engineering Journal** (2021). [[Download Arxiv]](https://arxiv.org/abs/2012.06264)
+
 *Patchworking: Exploring the Code Changes induced by Vulnerability Fixing Activities* G. Canfora, A. Di Sorbo; S. Forootani, M. Martinez, C. A. Visaggio. **Information and Software Technology** (2021). DOI: 10.1016/j.infsof.2021.106745 [[Download Elsevier]](https://www.sciencedirect.com/science/article/pii/S0950584921001932).
  
 *Green Tests in Java, Pharo and Python: An Empirical Study*. V. Aranega,  J. Delplanque, M. Martinez, A. P. Black, S. Ducasse, A. Etien, C. Fuhrman, G. Polito. **Empirical Software Engineering Journal** (2021) DOI: 10.1007/s10664-021-10016-2 [[Download Arxiv]](https://hal.inria.fr/hal-03281836/document) [[Download Springer]](https://link.springer.com/article/10.1007/s10664-021-10016-2)
@@ -35,6 +37,7 @@ weight = 2
 
 *An experience-based recommendation system to support migrations of Android applications from Java to Kotlin*. Bruno Góis Mateus, Christophe Kolski,  Matias Martinez. [[Download Arxiv]](https://arxiv.org/pdf/2103.09728v2.pdf) 
 
+*FLACOCO: Fault Localization for Java based on Industry-grade Coverage*. A. Silva, M. Martinez, Be. Danglot, D. Ginelli, M. Monperrus.[[Download Arxiv]](https://arxiv.org/abs/2111.12513) 
 
 # 2020
 
@@ -51,8 +54,6 @@ weight = 2
 *Hyperparameter Optimization for AST Differencing*. M. Martinez, J.R. Falleri, M. Monperrus. [[Download Arxiv]](https://arxiv.org/pdf/2011.10268.pdf)
 
 *Longitudinal Analysis of the Applicability of Program Repair on Past Commits*. K. Etemadi, N. Tarighat, S. Yadav, M. Martinez, M. Monperrus. [[Download Arxiv]](https://arxiv.org/abs/2007.06986) 
-
-*A Comprehensive Study of Code-removal Patches in Automated Program Repair*.  D. Ginelli, M. Martinez, L. Mariani, M. Monperrus. [[Download Arxiv]](https://arxiv.org/abs/2012.06264)
 
 
 # 2019

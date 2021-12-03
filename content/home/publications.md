@@ -19,6 +19,10 @@ weight = 2
 
 [See all publications on Google Scholar](https://scholar.google.fr/citations?hl=en&view_op=list_works&gmla=AJsN-F4qk0ixeZSzyK-VonR_7z4E8Mh7uurYirww5fWLlH7VYY-auM7lhSQ4alLoeC3CWlDW8BOC7GOlmkofpCytBrawFHvdCA&user=glRf46S0yTIC)
 
+# 2022
+
+*Neural Program Repair using Execution-based Backpropagation*. Y. He, M. Martinez, M. Monperrus. **ICSE International Conference on Software Engineering** (2021). To be published. [[Download Arxiv]](https://arxiv.org/abs/2105.04123)
+
 # 2021
 
 *Why did developers migrate Android Applications from Java to Kotlin?* M. Martinez, B.Gois Mateus. **Transactions on Software Engineering** (2021). DOI: 0.1109/TSE.2021.3120367 [[Download Arxiv]](https://arxiv.org/abs/2003.12730) [[Download IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9576593)

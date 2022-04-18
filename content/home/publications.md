@@ -25,6 +25,10 @@ weight = 2
 
 *Estimating the Potential of Program Repair Search Spaces with Commit Analysis*. K. Etemadi, N. Tarighat, S. Yadav, M. Martinez, M. Monperrus.**Journal of Systems & Software** [[Download Arxiv]](https://arxiv.org/abs/2007.06986) 
 
+*Taxonomy of Attacks on Open-Source Software Supply Chains*. P. Ladisa, H. Plate, M. Martinez, O. Barais. [[Download Arxiv]](https://arxiv.org/abs/2204.04008)	
+
+*SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics*. H. Ye, M. Martinez, X. Luo, T. Zhang, M. Monperrus. [[Download Arxiv]](http://arxiv.org/pdf/2203.12755)
+
 # 2021
 
 *Why did developers migrate Android Applications from Java to Kotlin?* M. Martinez, B.Gois Mateus. **Transactions on Software Engineering** (2021). DOI: 0.1109/TSE.2021.3120367 [[Download Arxiv]](https://arxiv.org/abs/2003.12730) [[Download IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9576593)

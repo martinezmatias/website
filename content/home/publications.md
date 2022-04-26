@@ -27,7 +27,11 @@ weight = 2
 
 *Taxonomy of Attacks on Open-Source Software Supply Chains*. P. Ladisa, H. Plate, M. Martinez, O. Barais. [[Download Arxiv]](https://arxiv.org/abs/2204.04008)	
 
+*Is well-tested code more energy efficient?* A. Noureddine, M. Martinez, H. Kanso, N. Bru. **In the 11th Workshop on the Reliability of Intelligent Environments (WoRIE'22)/(IE 2022)** [[Download HAL]](https://hal.archives-ouvertes.fr/hal-03635797/document) 
+
 *SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics*. H. Ye, M. Martinez, X. Luo, T. Zhang, M. Monperrus. [[Download Arxiv]](http://arxiv.org/pdf/2203.12755)
+
+
 
 # 2021
 
@@ -44,6 +48,8 @@ weight = 2
 *Automated Classification of Overfitting Patches with Statically Extracted Code Features*.  H. Ye, J. Gu, M. Martinez, T. Durieux, M. Monperrus. **Transactions on Software Engineering (TSE)** (2021) DOI: 10.1109/TSE.2021.3071750 [[Download Arxiv]](https://arxiv.org/abs/1910.12057) [[Download IEEE Access]](https://ieeexplore.ieee.org/document/9399306)
 
 *R-Hero: A Software Repair Bot based on Continual Learning*. B. Baudry, Z. Chen, K. Etemadi, H. Fu, D. Ginelli, S. Kommrusch, M. Martinez, M. Monperrus, J.r Ron, H. Ye, Z. Yu. **IEEE Software**  (2021) DOI: 10.1109/MS.2021.3070743  [[Download Arxiv]](https://arxiv.org/abs/2012.06824) [[Download IEEE Xplore]](https://ieeexplore.ieee.org/document/9393494)
+
+*A Preliminary Study of the Impact of Code Coverage on Software Energy Consumption.*.  A. Noureddine, M. Martinez, H. Kanso. **In the Second International Workshop on Sustainable Software Engineering (SUSTAINSE)/(ASE'21) 2021.** [[Download HAL]](https://hal.archives-ouvertes.fr/hal-03380602/document) [[Download IEEE Digital Library]](https://www.computer.org/csdl/proceedings-article/asew/2021/358300a263/1AqwoI23tRK)
 
 *An experience-based recommendation system to support migrations of Android applications from Java to Kotlin*. Bruno Góis Mateus, Christophe Kolski,  Matias Martinez. [[Download Arxiv]](https://arxiv.org/pdf/2103.09728v2.pdf) 
 

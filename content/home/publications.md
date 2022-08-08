@@ -21,15 +21,17 @@ weight = 2
 
 # 2022
 
-*Neural Program Repair using Execution-based Backpropagation*. Y. He, M. Martinez, M. Monperrus. **ICSE International Conference on Software Engineering** (2022). Accepted to be published. [[Download Arxiv]](https://arxiv.org/abs/2105.04123)
+*Taxonomy of Attacks on Open-Source Software Supply Chains*. P. Ladisa, H. Plate, M. Martinez, O. Barais. **IEEE S&P 2023** [[Download Arxiv]](https://arxiv.org/abs/2204.04008)	
 
-*Estimating the Potential of Program Repair Search Spaces with Commit Analysis*. K. Etemadi, N. Tarighat, S. Yadav, M. Martinez, M. Monperrus.**Journal of Systems & Software** [[Download Arxiv]](https://arxiv.org/abs/2007.06986) 
+*Neural Program Repair using Execution-based Backpropagation*. Y. He, M. Martinez, M. Monperrus. **International Conference on Software Engineering (ICSE 2022)** (2022). [[Download Arxiv]](https://arxiv.org/abs/2105.04123)
 
-*Taxonomy of Attacks on Open-Source Software Supply Chains*. P. Ladisa, H. Plate, M. Martinez, O. Barais. [[Download Arxiv]](https://arxiv.org/abs/2204.04008)	
+*SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics*. H. Ye, M. Martinez, X. Luo, T. Zhang, M. Monperrus. **International Conference on Automated Software Engineering (ASE'22)** [[Download Arxiv]](http://arxiv.org/pdf/2203.12755)
 
-*Is well-tested code more energy efficient?* A. Noureddine, M. Martinez, H. Kanso, N. Bru. **In the 11th Workshop on the Reliability of Intelligent Environments (WoRIE'22)/(IE 2022)** [[Download HAL]](https://hal.archives-ouvertes.fr/hal-03635797/document) 
+*Estimating the Potential of Program Repair Search Spaces with Commit Analysis*. K. Etemadi, N. Tarighat, S. Yadav, M. Martinez, M. Monperrus. **Journal of Systems & Software** [[Download Arxiv]](https://arxiv.org/abs/2007.06986) 
 
-*SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics*. H. Ye, M. Martinez, X. Luo, T. Zhang, M. Monperrus. [[Download Arxiv]](http://arxiv.org/pdf/2203.12755)
+*Is well-tested code more energy efficient?*. A. Noureddine, M. Martinez, H. Kanso, N. Bru. **In the 11th Workshop on the Reliability of Intelligent Environments (WoRIE'22)/(IE 2022)** [[Download HAL]](https://hal.archives-ouvertes.fr/hal-03635797/document) 
+
+*Test-based Patch Clustering for Automatically-Generated Patches Assessment*.  M. Martinez, M. Kechagia, A. Perera, J. Petke, F. Sarro, A. Aleti. (2022) [[Download Arxiv]](https://arxiv.org/abs/2207.11082) 
 
 
 

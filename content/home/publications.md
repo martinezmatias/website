@@ -19,20 +19,26 @@ weight = 2
 
 [See all publications on Google Scholar](https://scholar.google.fr/citations?hl=en&view_op=list_works&gmla=AJsN-F4qk0ixeZSzyK-VonR_7z4E8Mh7uurYirww5fWLlH7VYY-auM7lhSQ4alLoeC3CWlDW8BOC7GOlmkofpCytBrawFHvdCA&user=glRf46S0yTIC)
 
-# 2022
+# 2023
 
 *Taxonomy of Attacks on Open-Source Software Supply Chains*. P. Ladisa, H. Plate, M. Martinez, O. Barais. **IEEE S&P 2023** [[Download Arxiv]](https://arxiv.org/abs/2204.04008)	
 
-*Neural Program Repair using Execution-based Backpropagation*. Y. He, M. Martinez, M. Monperrus. **International Conference on Software Engineering (ICSE 2022)** (2022). [[Download Arxiv]](https://arxiv.org/abs/2105.04123)
+
+# 2022
+
+*Neural Program Repair using Execution-based Backpropagation*. Y. He, M. Martinez, M. Monperrus. **International Conference on Software Engineering (ICSE 2022)** (2022). DOI: https://doi.org/10.1145/3510003.3510222 [[Download Arxiv]](https://arxiv.org/abs/2105.04123)
 
 *SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics*. H. Ye, M. Martinez, X. Luo, T. Zhang, M. Monperrus. **International Conference on Automated Software Engineering (ASE'22)** [[Download Arxiv]](http://arxiv.org/pdf/2203.12755)
 
-*Estimating the Potential of Program Repair Search Spaces with Commit Analysis*. K. Etemadi, N. Tarighat, S. Yadav, M. Martinez, M. Monperrus. **Journal of Systems & Software** [[Download Arxiv]](https://arxiv.org/abs/2007.06986) 
+*Learning migration models for supporting incremental language migrations of software applications*. Bruno Góis Mateus, Matias Martinez, Christophe Kolski. **Information and Software Technology** DOI: https://doi.org/10.1016/j.infsof.2022.107082 [[Download Elsevier]](https://www.sciencedirect.com/science/article/abs/pii/S0950584922001914)  [[Download Arxiv]](https://arxiv.org/pdf/2103.09728v2.pdf) 
+
+*Estimating the Potential of Program Repair Search Spaces with Commit Analysis*. K. Etemadi, N. Tarighat, S. Yadav, M. Martinez, M. Monperrus. **Journal of Systems & Software** DOI: https://doi.org/10.1016/j.jss.2022.111263 [[Download Elsevier]](https://www.sciencedirect.com/science/article/pii/S0164121222000309) [[Download Arxiv]](https://arxiv.org/abs/2007.06986) 
 
 *Is well-tested code more energy efficient?*. A. Noureddine, M. Martinez, H. Kanso, N. Bru. **In the 11th Workshop on the Reliability of Intelligent Environments (WoRIE'22)/(IE 2022)** [[Download HAL]](https://hal.archives-ouvertes.fr/hal-03635797/document) 
 
 *Test-based Patch Clustering for Automatically-Generated Patches Assessment*.  M. Martinez, M. Kechagia, A. Perera, J. Petke, F. Sarro, A. Aleti. (2022) [[Download Arxiv]](https://arxiv.org/abs/2207.11082) 
 
+*Apprentissage automatique sur le code source* (In French). Matias Martinez. **ActuIA Magazine** [[Download ActuIA]](https://www.actuia.com/) [[Download]](https://drive.google.com/file/d/1fWWGF8b2-VY9kcTjP9PHezH8UPlRyEIo/view?usp=sharing) (2022)
 
 
 # 2021
@@ -52,8 +58,6 @@ weight = 2
 *R-Hero: A Software Repair Bot based on Continual Learning*. B. Baudry, Z. Chen, K. Etemadi, H. Fu, D. Ginelli, S. Kommrusch, M. Martinez, M. Monperrus, J.r Ron, H. Ye, Z. Yu. **IEEE Software**  (2021) DOI: 10.1109/MS.2021.3070743  [[Download Arxiv]](https://arxiv.org/abs/2012.06824) [[Download IEEE Xplore]](https://ieeexplore.ieee.org/document/9393494)
 
 *A Preliminary Study of the Impact of Code Coverage on Software Energy Consumption.*.  A. Noureddine, M. Martinez, H. Kanso. **In the Second International Workshop on Sustainable Software Engineering (SUSTAINSE)/(ASE'21) 2021.** [[Download HAL]](https://hal.archives-ouvertes.fr/hal-03380602/document) [[Download IEEE Digital Library]](https://www.computer.org/csdl/proceedings-article/asew/2021/358300a263/1AqwoI23tRK)
-
-*An experience-based recommendation system to support migrations of Android applications from Java to Kotlin*. Bruno Góis Mateus, Christophe Kolski,  Matias Martinez. [[Download Arxiv]](https://arxiv.org/pdf/2103.09728v2.pdf) 
 
 *FLACOCO: Fault Localization for Java based on Industry-grade Coverage*. A. Silva, M. Martinez, Be. Danglot, D. Ginelli, M. Monperrus.[[Download Arxiv]](https://arxiv.org/abs/2111.12513) 
 

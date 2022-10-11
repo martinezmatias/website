@@ -30,7 +30,7 @@ weight = 2
 
 *SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics*. H. Ye, M. Martinez, X. Luo, T. Zhang, M. Monperrus. **International Conference on Automated Software Engineering (ASE'22)** [[Download Arxiv]](http://arxiv.org/pdf/2203.12755)
 
-*Learning migration models for supporting incremental language migrations of software applications*. Bruno Góis Mateus, Matias Martinez, Christophe Kolski. **Information and Software Technology** DOI: https://doi.org/10.1016/j.infsof.2022.107082 [[Download Elsevier]](https://www.sciencedirect.com/science/article/abs/pii/S0950584922001914)  [[Download Arxiv]](https://arxiv.org/pdf/2103.09728v2.pdf) 
+*Learning migration models for supporting incremental language migrations of software applications*. Bruno Góis Mateus, Matias Martinez, Christophe Kolski. **Information and Software Technology (IST)** DOI: https://doi.org/10.1016/j.infsof.2022.107082 [[Download Elsevier]](https://www.sciencedirect.com/science/article/abs/pii/S0950584922001914)  [[Download Arxiv]](https://arxiv.org/abs/2103.09728) 
 
 *Estimating the Potential of Program Repair Search Spaces with Commit Analysis*. K. Etemadi, N. Tarighat, S. Yadav, M. Martinez, M. Monperrus. **Journal of Systems & Software** DOI: https://doi.org/10.1016/j.jss.2022.111263 [[Download Elsevier]](https://www.sciencedirect.com/science/article/pii/S0164121222000309) [[Download Arxiv]](https://arxiv.org/abs/2007.06986) 
 
@@ -39,6 +39,8 @@ weight = 2
 *Test-based Patch Clustering for Automatically-Generated Patches Assessment*.  M. Martinez, M. Kechagia, A. Perera, J. Petke, F. Sarro, A. Aleti. (2022) [[Download Arxiv]](https://arxiv.org/abs/2207.11082) 
 
 *Apprentissage automatique sur le code source* (In French). Matias Martinez. **ActuIA Magazine** [[Download ActuIA]](https://www.actuia.com/) [[Download]](https://drive.google.com/file/d/1fWWGF8b2-VY9kcTjP9PHezH8UPlRyEIo/view?usp=sharing) (2022)
+
+*Towards the Detection of Malicious Java Packages*  P. Ladisa, H. Plate, M. Martinez, O. Barais, S. Ponta.*  **ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '22)** [[Download Arxiv]](https://arxiv.org/abs/2210.03998)
 
 
 # 2021

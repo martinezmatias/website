@@ -23,6 +23,9 @@ weight = 2
 
 *Taxonomy of Attacks on Open-Source Software Supply Chains*. P. Ladisa, H. Plate, M. Martinez, O. Barais. **IEEE S&P 2023** [[Download Arxiv]](https://arxiv.org/abs/2204.04008)	
 
+*Energy Consumption of Automated Program Repair*. M. Martinez, S. Martinez-Fernandez, X. Franch* [[Download Arxiv]](http://arxiv.org/abs/2211.12104)
+
+*Energy efficiency of training neural network architectures: An empirical study*. Y. Xu, S. Martínez-Fernández, M. Martinez, X. Franch. **HICSS-56**.
 
 # 2022
 
@@ -40,7 +43,7 @@ weight = 2
 
 *Apprentissage automatique sur le code source* (In French). Matias Martinez. **ActuIA Magazine** [[Download ActuIA]](https://www.actuia.com/) [[Download]](https://drive.google.com/file/d/1fWWGF8b2-VY9kcTjP9PHezH8UPlRyEIo/view?usp=sharing) (2022)
 
-*Towards the Detection of Malicious Java Packages*  P. Ladisa, H. Plate, M. Martinez, O. Barais, S. Ponta.*  **ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '22)** [[Download Arxiv]](https://arxiv.org/abs/2210.03998)
+*Towards the Detection of Malicious Java Packages*  P. Ladisa, H. Plate, M. Martinez, O. Barais, S. Ponta. **ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '22)** [[Download Arxiv]](https://arxiv.org/abs/2210.03998)
 
 
 # 2021

@@ -23,7 +23,7 @@ weight = 2
 
 *Taxonomy of Attacks on Open-Source Software Supply Chains*. P. Ladisa, H. Plate, M. Martinez, O. Barais. **IEEE S&P 2023** [[Download Arxiv]](https://arxiv.org/abs/2204.04008)	
 
-*Energy Consumption of Automated Program Repair*. M. Martinez, S. Martinez-Fernandez, X. Franch* [[Download Arxiv]](http://arxiv.org/abs/2211.12104)
+*Energy Consumption of Automated Program Repair*. M. Martinez, S. Martinez-Fernandez, X. Franch. [[Download Arxiv]](http://arxiv.org/abs/2211.12104)
 
 *Energy efficiency of training neural network architectures: An empirical study*. Y. Xu, S. Martínez-Fernández, M. Martinez, X. Franch. **HICSS-56**.
 
